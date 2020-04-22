@@ -26,7 +26,7 @@
 
 .portfolio-items .col .work-item.style-3 a,
 .portfolio-items .col .work-item.style-3-alt a {
-	background: transparent url('../img/transparent.png') repeat 0 0;	
+	background: transparent url('https://chnaveen138.github.io/blog/wp-content/themes/salient/img/transparent.png') repeat 0 0;	
 }
 
 .portfolio-items .col .work-item.style-3 h3, .portfolio-items .work-item.style-3 .work-info,
@@ -1938,7 +1938,7 @@ div[id^="video-popup-"].mfp-iframe-scaler > .video > .wp-video > video {
 	left: 50%;
 	top: 100px;
 	margin-left: -15px;
-	background-image: url('../img/icons/loading-white-bg.gif');
+	background-image: url('https://chnaveen138.github.io/blog/wp-content/themes/salient/img/icons/loading-white-bg.gif');
 }
 
 .portfolio-loading.default-loader {
